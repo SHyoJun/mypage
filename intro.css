@@ -7,6 +7,10 @@ div {
     color: pink;
     background-color: plum;
 
+    position: relative;
+    top: 5px;
+    left: 5px;
+
 }
 .hobit{
     color: purple;
